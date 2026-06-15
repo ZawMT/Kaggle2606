@@ -1,0 +1,6 @@
+{
+  "name": "French Vocabulary MCQ",
+  "description": "An application to learn French vocabulary with multiple-choice questions, and save entries to a personal dictionary.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
